@@ -10,6 +10,6 @@ You can watch my organic progress, CAD sessions, and project walkthroughs direct
 👉 [Protoshred HQ on Instagram](https://instagram.com)
 
 ### Project Milestones:
-- [x] Leg Blueprint Dimension Sketches
-- [ ] Body Chassis Blueprint Design
-- [ ] Prototype Physical Assembly
+- Leg Blueprint Dimension Sketches
+- Body Chassis Blueprint Design
+- Prototype Physical Assembly
