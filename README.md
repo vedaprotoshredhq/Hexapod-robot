@@ -29,7 +29,7 @@
 
 - **Chassis Weight**: 100-120g _(body only)_
 - **Battery Runtime**: 13-30 minutes _(depending on activity)_
-- **Total Footprint**: ~45cm × 50cm _(estimated with legs extended)_
+- **Total Footprint**: ~25cm × 30cm _(estimated with legs extended)_
 
 ## CAD
 
