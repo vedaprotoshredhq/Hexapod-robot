@@ -31,10 +31,6 @@
 - **Battery Runtime**: 13-30 minutes _(depending on activity)_
 - **Total Footprint**: ~45cm × 50cm _(estimated with legs extended)_
 
-## BOM
-
-Bill of materials and other notes can be found at [BOM.md](BOM.md).
-
 ## CAD
 
 CAD files are designed in FreeCAD and stored in the `CAD/` directory:
@@ -42,13 +38,41 @@ CAD files are designed in FreeCAD and stored in the `CAD/` directory:
 - **CAD/Assemblies/** - Full assembly reference files (STEP format)
 - **CAD/Parts/** - Individual 3D printable parts (STL format)
 - **CAD/INVENTORY.md** - Component descriptions and assembly guide
-- **CAD/BOM.md** - Detailed bill of materials
 
 Full CAD file inventory can be found at [CAD/INVENTORY.md](CAD/INVENTORY.md).
 
 View the CAD designs with panels removed:
 
 <img src="Images/Hexapod-CAD-Without-Cover.png" width="50%" alt="Hexapod Robot CAD without panels" />
+
+## Assembly
+
+### Phase 1: Chassis Assembly (Completed)
+1. Assemble 3D printed chassis components
+2. Mount Arduino R4 Minima on chassis
+3. Install PCA9685 PWM driver boards
+4. Connect DC-DC buck converter
+5. Wire power distribution
+6. Test power and communication
+
+### Phase 2: Leg Assembly (In Progress)
+1. 3D print all leg components with recommended settings
+2. Clean and assemble printed parts
+3. Mount MG90S servos to leg joints
+4. Connect servos to PCA9685 boards
+5. Calibrate servo angles
+6. Attach legs to chassis using 2mm screws
+
+### Phase 3: Programming & Testing
+1. Load servo control firmware to Arduino
+2. Test each leg individually
+3. Implement hexapod gait algorithm
+4. Validate walking motion
+5. Fine-tune movement parameters
+
+## BOM
+
+Bill of materials and other notes can be found at [BOM.md](CAD/BOM.md).
 
 ## Credits
 
