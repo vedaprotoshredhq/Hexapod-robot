@@ -35,11 +35,16 @@
 
 CAD files are designed in FreeCAD and stored in the `CAD/` directory:
 
-- **CAD/Assemblies/** - Full assembly reference files (STEP format)
-- **CAD/Parts/** - Individual 3D printable parts (STL format)
-- **CAD/INVENTORY.md** - Component descriptions and assembly guide
-
-Full CAD file inventory can be found at [CAD/INVENTORY.md](CAD/INVENTORY.md).
+- **CAD/Assemblies/** - Full assembly reference files (.FCStd format - editable in FreeCAD)
+  - Corex2.0 - Hip joint (coxa segment)
+  - Femur2.0 - Upper leg segment
+  - Tibita2.1 - Lower leg segment with foot
+  - bodyhornsupport - Servo horn mounting bracket
+  - extra part 2.0 - Additional structural component
+  - lowerrectangularbodyy - Lower body chassis panel
+  - rectangularbodytop - Upper body chassis panel/cover
+  
+- **CAD/Parts/** - 3D printable parts (.STL format - ready for slicing)
 
 View the CAD designs with panels removed:
 
@@ -72,7 +77,7 @@ View the CAD designs with panels removed:
 
 ## BOM
 
-Bill of materials and other notes can be found at [BOM.md](CAD/BOM.md).
+Bill of materials and other notes can be found at [BOM.md](BOM.md).
 
 ## Credits
 
