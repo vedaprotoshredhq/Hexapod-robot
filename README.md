@@ -74,7 +74,6 @@ View the CAD designs with panels removed:
 
 ## Credits
 
-- [Ruiqimao's Quicksilver](https://github.com/ruiqimao/Quicksilver/tree/main), for hexapod robotics inspiration.
 - Arduino community for microcontroller guidance.
 - PCA9685 PWM board reference designs.
 - Hexapod robotics open-source community for gait algorithms and kinematics.
