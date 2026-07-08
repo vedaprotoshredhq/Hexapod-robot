@@ -72,10 +72,6 @@ View the CAD designs with panels removed:
 4. Validate walking motion
 5. Fine-tune movement parameters
 
-## BOM
-
-Bill of materials and other notes can be found at [BOM.md](BOM.md).
-
 ## Credits
 
 - [Ruiqimao's Quicksilver](https://github.com/ruiqimao/Quicksilver/tree/main), for hexapod robotics inspiration.
