@@ -1,9 +1,8 @@
 # Hexapod Robot
 
 <p align="center">
-  <img src="Images/Hexapod-Assembled.jpg" width="45%" alt="Hexapod Robot Assembled" />
-  &nbsp;
-  <img src="Images/Hexapod-CAD-Without-Cover.png" width="45%" alt="Hexapod Robot without panels" />
+  <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/f9c949c0-9e14-494f-b8b5-e4c14eb9c2f7" />
+  <img width="1600" height="722" alt="image" src="https://github.com/user-attachments/assets/cfcaeb63-52e8-4be0-b1f4-d72a51ec0c46" />
 </p>
 
 **Hexapod Robot** is a 6-legged walking robot featuring:
