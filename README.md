@@ -44,7 +44,9 @@ All CAD files are designed in FreeCAD and can be found in the `CAD/` directory:
 
 View the CAD designs with panels removed:
 
-<img src="Images/Hexapod-CAD-Without-Cover.png" width="50%" alt="Hexapod Robot CAD without panels" />
+<img width="1600" height="722" alt="image" src="https://github.com/user-attachments/assets/45657123-1a51-4ba2-a1d9-1b3e3921278d" />
+<img width="720" height="791" alt="image" src="https://github.com/user-attachments/assets/7ea5ba53-bd65-4208-95b9-099d813e98ae" />
+
 
 ## Assembly
 
@@ -87,4 +89,7 @@ View the CAD designs with panels removed:
 
 Hexapod Robot is open-source. More details can be found at [LICENSE.md](LICENSE.md).
 
-![Hexapod Robot](Images/Hexapod-Assembled.jpg)
+![Hexapod Robot]<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7bf05057-6b16-4d8a-b74a-0f88ae8e2a18" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/754366f5-e4ec-4b4b-aab1-ff246f03f4a3" />
+
+
