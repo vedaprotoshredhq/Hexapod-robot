@@ -13,7 +13,7 @@
 - 18× MG90S servo motors for leg actuation
 - 2× PCA9685 16-channel PWM driver boards
 - 300W 20A DC-DC buck converter
-- 2200mAh 11.1V LiPo battery for autonomous operation
+- 11.1V LiPo battery for autonomous operation
 - 3D printed chassis and leg components
 - Modular hexapod kinematics for six-legged locomotion
 
