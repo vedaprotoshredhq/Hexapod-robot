@@ -37,8 +37,8 @@ All CAD files are designed in FreeCAD and can be found in the `CAD/` directory:
 - **Corex2.0.FCStd** - Hip joint (coxa segment)
 - **Femur2.0.FCStd** - Upper leg segment
 - **Tibita2.1.FCStd** - Lower leg segment with foot
-- **bodyhornsupport.FCStd** - Servo horn mounting bracket
-- **extra part 2.0.FCStd** - Additional structural component
+- **bodyhornsupport.FCStd** - Femur and Tibia Servo horn mounting bracket
+- **extra part 2.0.FCStd** - Coxa Servo horn mounting bracket
 - **lowerrectangularbodyy.FCStd** - Lower body chassis panel
 - **rectangularbodytop.FCStd** - Upper body chassis panel/cover
 
