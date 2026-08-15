@@ -26,7 +26,7 @@
 
 ### Body Specifications
 
-- **Chassis Weight**: 100-140g _(body only)_
+- **Chassis Weight**: 100-140g _(body only excluding leg parts)_
 - **Battery Runtime**: 13-30 minutes _(depending on activity)_
 - **Total Footprint**: ~25cm × 30cm _(estimated with legs extended)_
 
@@ -51,12 +51,11 @@ View the CAD designs with panels removed:
 ## Assembly
 
 ### Phase 1: Chassis Assembly (Completed)
-1. Assemble 3D printed chassis components
-2. Mount Arduino R4 Minima on chassis
-3. Install PCA9685 PWM driver boards
-4. Connect DC-DC buck converter
-5. Wire power distribution
-6. Test power and communication
+1. Assemble 3D printed chassis components (use 2m screws)
+2. Mount Arduino R4 Minima on upper chassis
+3. Install PCA9685 PWM driver boards in lower chassis 
+4. Connect DC-DC buck converter input to battery and output to 2x pca9685 boards and Arduino Jack 
+6. Test power.
 
 ### Phase 2: Leg Assembly (In Progress)
 1. 3D print all leg components with recommended settings
@@ -68,7 +67,7 @@ View the CAD designs with panels removed:
 
 ### Phase 3: Programming & Testing
 1. Load servo control firmware to Arduino
-2. Test each leg individually
+2. Test each leg individually 
 3. Implement hexapod gait algorithm
 4. Validate walking motion
 5. Fine-tune movement parameters
